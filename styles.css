@@ -1,0 +1,49 @@
+
+.lcounter{
+    background-image: url(img/bg1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #6000fc;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+.ltitle{
+    background-image: url(img/bg1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #6000fc;
+    text-align: center;
+    color:white;
+}
+
+.gencontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.buttoncontainer{
+    text-align: center;
+    margin-top:70px;
+    border-radius: 25px;
+}
+
+.modalbutton{
+    text-align: center;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+  
