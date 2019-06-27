@@ -1,3 +1,12 @@
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+}
+      
+.navbar .navbar-collapse {
+    text-align: center;
+}
 
 .lcounter{
     background-image: url(img/bg1.png);
@@ -43,6 +52,18 @@
     left: 0;
     bottom: 0;
     width: 100%;
+}
+
+table th{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Schoolbell', arial, serif;
+    background-color: rgb(255, 239, 204);
+}
+
+table td{
+    font-size: 20px;
+    font-family: 'Schoolbell', arial, serif;
 }
 
 
